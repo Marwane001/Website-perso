@@ -1,3 +1,3 @@
-#Test git
+#Test
 
 Hello world
